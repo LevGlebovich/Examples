@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Лекци\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Lections\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Лекци\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Lections\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Лекци\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Lections\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Лекци\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Lections\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\cska2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Лекци\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\cska2\\Desktop\\учеба\\C#\\Lections\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cska2\\AppData\\Roaming\\NuGet\\NuGet.Config"
